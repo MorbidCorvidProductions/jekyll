@@ -3,8 +3,8 @@ title: your awesome title
 author: github user
 email: morbidcorvidproductions@gmail.com
 description: a wonderful site
-twitter_username: cursedcorvid
-github_username: morbidcorvidproductions
+twitter: cursedcorvid
+github: morbidcorvidproductions
 
 #Build settings
 markdown: kramdown
